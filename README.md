@@ -1,4 +1,3 @@
-# DEBU PATRA
 **Embedded Software Engineer**, patradebu1207@gmail.com 
 
 ## Professional Summary
