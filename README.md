@@ -6,7 +6,7 @@ Driven Software Engineer with a proven track record at Samsung R&D, enhancing Ti
 Passionate about leveraging technical and collaborative skills to drive project success.
 
 ## Technical Skills
-- C, C++, Bash scripting, Python, Flash
+- C, C++, Bash scripting, Python, Flask
 - Data Structures & Algorigthms, OOPs, Operating System
 - Linux kernel device drivers, Filesystem, kernel debugging.
 - gdb, Git, Github, Perforce, Open-source, Build automation tools.
